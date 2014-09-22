@@ -1,4 +1,6 @@
-This repository contains materials related to my participation in the [Bioinformatics Summer School 2014](http://bioinformaticsinstitute.ru/summer2014) in St. Petersburg.
+This repository contains materials related to my participation in the [Bioinformatics Summer School 2014](http://bioinformaticsinstitute.ru/summer2014) in St. Petersburg. See the [Miniconference page](http://bioinformaticsinstitute.ru/summer2014/miniconf).
+
+These slides are in Russian. For the English version check out my talk at [IWBBIO-2014](https://github.com/ohnosequences/IWBBIO-2014/tree/master/bio4j).
 
 ----
 
